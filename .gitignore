@@ -1,0 +1,7 @@
+# The virtual environment
+django-env
+
+# cached modules
+tictactoe/tictactoe/__pycache__
+__pycache__
+.vscode
