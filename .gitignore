@@ -5,3 +5,8 @@ django-env
 tictactoe/tictactoe/__pycache__
 __pycache__
 .vscode
+../.DS_Store
+.DS_Store
+
+#migrations
+tictactoe/gameplay/migrations
