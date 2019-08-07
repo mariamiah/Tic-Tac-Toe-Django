@@ -10,3 +10,12 @@ __pycache__
 
 #migrations
 tictactoe/gameplay/migrations
+.installed.cfg
+*.egg
+.idea/
+**/.DS_Store
+# sqlite database
+db.sqlite3
+
+#settings
+**/**/settings.ini
