@@ -18,7 +18,7 @@ from django.urls import path, include
 from .views import welcome
 
 urlpatterns = [
-    path('', welcome),
+    path('', welcome, name="tictactoe_welcome"),
     path('admin/', admin.site.urls),
     path('player/', include('player.urls')),
 ]
